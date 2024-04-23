@@ -1,3 +1,4 @@
+
 import { initializeAuthProxy } from '@propelauth/auth-proxy'
 
 // Replace with your configuration
