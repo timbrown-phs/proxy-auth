@@ -9,7 +9,7 @@ await initializeAuthProxy({
     urlWhereYourProxyIsRunning: 'https://app-pc-hospice-service-rzp4s3nasq-ue.a.run.app',
     target: {
         host: 'https://proxy-auth-service-rzp4s3nasq-ue.a.run.app',
-        protocol: 'http:'
+        protocol: 'https:'
     },
 })
 
