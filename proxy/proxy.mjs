@@ -8,7 +8,7 @@ await initializeAuthProxy({
     proxyPort: 8000,
     urlWhereYourProxyIsRunning: 'https://proxy-auth-service-rzp4s3nasq-ue.a.run.app',
     target: {
-        host: 'localhost',
+        host: 'https://app-pc-hospice-service-rzp4s3nasq-ue.a.run.app',
         port: 8501,
         protocol: 'http:'
     },
